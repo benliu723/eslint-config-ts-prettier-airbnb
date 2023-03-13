@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-ts-prettier-airbnb",
+  "name": "eslint-config-typescript-prettier-airbnb",
   "version": "1.0.0",
-  "description": "eslint config with typescript/prettier",
+  "description": "eslint config with typescript/prettier/airbnb",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

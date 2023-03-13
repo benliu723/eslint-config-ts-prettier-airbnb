@@ -2,17 +2,17 @@
 
 ## Installation
 
-Install eslint-config-ts-prettier-airbnb:
+Install eslint-config-typescript-prettier-airbnb:
 
 ```
-npm install --save-dev eslint-config-ts-prettier-airbnb
+npm install --save-dev eslint-config-typescript-prettier-airbnb
 ```
 
 Usage
 ```json
 {
   "extends": [
-    'eslint-config-ts-prettier-airbnb'
+    'eslint-config-typescript-prettier-airbnb'
   ]
 }
 ```

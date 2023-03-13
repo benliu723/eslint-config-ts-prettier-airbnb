@@ -1,11 +1,11 @@
-const config = require(".");
+const config = require('.');
 
 module.exports = {
-  env: {
-    node: true,
-  },
-  ...config,
-  rules: {
-    "@typescript-eslint/no-var-requires": "off",
-  },
+    env: {
+        node: true,
+    },
+    ...config,
+    rules: {
+        '@typescript-eslint/no-var-requires': 'off',
+    },
 };

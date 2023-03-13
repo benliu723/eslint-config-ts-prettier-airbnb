@@ -1,5 +1,5 @@
 {
-  "name": "@benliu/eslint-config-ts",
+  "name": "eslint-config-ts-prettier-airbnb",
   "version": "1.0.0",
   "description": "eslint config with typescript/prettier",
   "main": "index.js",

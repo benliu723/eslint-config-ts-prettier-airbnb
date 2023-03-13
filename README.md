@@ -2,17 +2,17 @@
 
 ## Installation
 
-Install @benliu/eslint-config-ts-prettier-airbnb:
+Install eslint-config-ts-prettier-airbnb:
 
 ```
-npm install --save-dev @benliu/eslint-config-ts-prettier-airbnb
+npm install --save-dev eslint-config-ts-prettier-airbnb
 ```
 
 Usage
 ```json
 {
   "extends": [
-    '@benliu/eslint-config-ts-prettier-airbnb'
+    'eslint-config-ts-prettier-airbnb'
   ]
 }
 ```
